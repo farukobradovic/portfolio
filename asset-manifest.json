@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7ee5670f.chunk.css",
+    "main.js": "/portfolio/static/js/main.02eee126.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.02eee126.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.3184aaa7.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3184aaa7.js.map",
+    "static/js/2.86ef49e9.chunk.js": "/portfolio/static/js/2.86ef49e9.chunk.js",
+    "static/js/2.86ef49e9.chunk.js.map": "/portfolio/static/js/2.86ef49e9.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.9bb8a02d61c986e9f4a82201c9d9723c.js": "/portfolio/precache-manifest.9bb8a02d61c986e9f4a82201c9d9723c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.7ee5670f.chunk.css.map": "/portfolio/static/css/main.7ee5670f.chunk.css.map",
+    "static/media/000dev-1.PNG": "/portfolio/static/media/000dev-1.7a94c418.PNG",
+    "static/media/000dev-2.png": "/portfolio/static/media/000dev-2.55823c99.png",
+    "static/media/000dev-3.PNG": "/portfolio/static/media/000dev-3.398b18c7.PNG",
+    "static/media/000dev-4.PNG": "/portfolio/static/media/000dev-4.564341a2.PNG",
+    "static/media/000dev-5.png": "/portfolio/static/media/000dev-5.095a2929.png",
+    "static/media/123.jpg": "/portfolio/static/media/123.515b72a6.jpg",
+    "static/media/3.jpg": "/portfolio/static/media/3.531fa5a4.jpg",
+    "static/media/31.PNG": "/portfolio/static/media/31.a86c1666.PNG",
+    "static/media/32.PNG": "/portfolio/static/media/32.4f13b98d.PNG",
+    "static/media/33.PNG": "/portfolio/static/media/33.d59838ab.PNG",
+    "static/media/fanatico-1 (2).png": "/portfolio/static/media/fanatico-1 (2).844a89b2.png",
+    "static/media/fanatico-2.png": "/portfolio/static/media/fanatico-2.eeaa4ef7.png",
+    "static/media/fanatico-3.PNG": "/portfolio/static/media/fanatico-3.7ec9bb7e.PNG",
+    "static/media/fanatico-4.PNG": "/portfolio/static/media/fanatico-4.55304731.PNG",
+    "static/media/fanatico-5.PNG": "/portfolio/static/media/fanatico-5.21d331d2.PNG",
+    "static/media/me.jpg": "/portfolio/static/media/me.d83e7eb3.jpg",
+    "static/media/quiznow-1.PNG": "/portfolio/static/media/quiznow-1.f2a00030.PNG",
+    "static/media/quiznow-2.PNG": "/portfolio/static/media/quiznow-2.aa2f8094.PNG",
+    "static/media/quiznow-3.PNG": "/portfolio/static/media/quiznow-3.1581fedc.PNG",
+    "static/media/quiznow-4.png": "/portfolio/static/media/quiznow-4.e501937d.png",
+    "static/media/vadoo-1.png": "/portfolio/static/media/vadoo-1.b46c09a1.png",
+    "static/media/vadoo-4.png": "/portfolio/static/media/vadoo-4.afdf3c65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3184aaa7.js",
+    "static/js/2.86ef49e9.chunk.js",
+    "static/css/main.7ee5670f.chunk.css",
+    "static/js/main.02eee126.chunk.js"
+  ]
+}
